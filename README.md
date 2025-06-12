@@ -46,27 +46,7 @@ The goal isn’t only to support Colapinto’s performance strategy—it’s to 
 
 ---
 
-This repository is more than code—it's proof that a curious analyst, a well-structured dataset, and the right queries can capture the story behind the stats. Let's accelerate analytical understanding—one race at a time! 🚦
-
----
-
-### LinkedIn Post
-
-Hey data & F1 fans! 🏎️
-
-I’ve just wrapped up a new SQL deep-dive into the Canadian GP—about 43 races worth of history and insights for Franco Colapinto’s 2025 strategy. It’s been a serious workout for my CTEs, window functions, and date logic skills, while giving me a front-row seat into qualifying vs. race dynamics.
-
-📌 Some top takeaways:
-• Pole-sitters in recent years win ~80% of the time—timing is everything.
-• Grids 1–8 carry a 60%+ chance of scoring points—so Q3 matters, folks.
-• Hamilton & Schumacher each claimed 7 wins here—legacy isn't cheap.
-• Hybrid-era position changes reveal how overtakes & DNF risk vary by grid.
-
-All wrapped up in a slick Canva report and stashed on GitHub (link below). And, hey, time was tight—between gym dashboards and Python practice but I finished this just before F1 qualifying. 😉 Now, off to prep for the Austrian GP as we root for an Argentine on track!
-
 👉 [Canva link]
-
-Let me know what you'd like to see next—or if you want to geek out on race data with me. #DataAnalytics #SQL #CTEs #WindowFunctions #Formula1 #F1 #DataDriven #CanadianGP #FrancoColapinto #CareerInData
 
 ---
 
